@@ -2,6 +2,4 @@
 
 This is an awesome website
 
-now editing on update-readme
-
-changing locally
+updates made on readme before rebase 
